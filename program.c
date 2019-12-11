@@ -10,6 +10,7 @@ int fib(int n)
 int main()
 {
   printf("Hello world!\n");
+  printf("I want to go home..\n");
   printf("%d\n", fib(5));
   return 0;
 }
